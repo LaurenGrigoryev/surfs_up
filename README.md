@@ -8,7 +8,7 @@ The purpose of this analysis was to give a potential surf shop owner more inform
 
 * In June, the mean temperature is about 75, a great temperature for ice cream and surfing, as seen in this [June statistics summary](https://github.com/LaurenSonis/surfs_up/blob/main/2021-02-03.png).
 
-* In December, the mean temperature is 71, which is still not too cold to deter ice cream eaters and surfers. Here is a [December statistics summary]. 
+* In December, the mean temperature is 71, which is still not too cold to deter ice cream eaters and surfers. Here is a [December statistics summary](https://github.com/LaurenSonis/surfs_up/blob/main/2021-02-03%20(1).png). 
 
 ## Summary
 Having analyzed the data, I would advise keeping the shop open year-round as the weather in Oahu is similar in June and December with highs in the 80s and lows not dipping past 56 in December and 64 in June. The standard deviation is between 3 and 4 points for both months, which is a good indication that most days do in fact feel like the mean temperatures.
